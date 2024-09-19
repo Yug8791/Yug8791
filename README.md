@@ -28,7 +28,7 @@ I've worked on various independent projects and even authored a research paper d
 - Build a career at the intersection of technology and innovation.
 
 ## How to Reach Me
-- [LinkedIn](www.linkedin.com/in/yug-srivastava-2646382aa) (if you have one)
+- [LinkedIn](www.linkedin.com/in/yug-srivastava-2646382aa) 
 - [Email](yug.srivastav99@gmail.com)
 
 Feel free to check out my repositories below and reach out for collaborations or discussions!
